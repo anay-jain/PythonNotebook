@@ -13,3 +13,7 @@ def ask_ok(prompt , retries = 4 , reminder="Please try again"):
 
 	# input(anay)
 	ask_ok('anay')	
+
+	# keyword arguments must follow after positional arguments
+	# keyword arguments -> those arguments like name=''
+	# positional arguments -> those arguments like '' only value is given
